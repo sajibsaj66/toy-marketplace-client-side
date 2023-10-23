@@ -4,7 +4,7 @@
 ## Project Name:  Kiddo Zone
 **Site Live Link: [Link-1](https://kiddo-zone-b9a3f.web.app/) [Link-2](https://kiddo-zone.netlify.app/)** 
 
-**Server Site Code Link: [Link](https://github.com/rahim-uddin-jsr/toy-marketplace-server-side)** 
+**Server Site Code Link: [Link](https://github.com/sajibsaj66/toy-marketplace-server-side)** 
 
 **If the site have any Issue to fetch data from server please reload the server for 5/6 time**
 
